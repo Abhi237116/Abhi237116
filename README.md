@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱I’m currently learning Machine Learning, Deep Learning, and GenAI, while exploring popular ML frameworks like TensorFlow and PyTorch. I actively apply these concepts in real-world projects to deepen my understanding and build practical experience in developing intelligent systems and solving data-driven problems using modern AI techniques.**
+- 🌱I’m currently learning Machine Learning, Deep Learning, and GenAI, while exploring popular ML frameworks like TensorFlow and PyTorch. I actively apply these concepts in real-world projects to deepen my understanding and build practical experience in developing intelligent systems and solving data-driven problems using modern AI techniques.
 
 
 ---
